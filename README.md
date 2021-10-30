@@ -1,7 +1,7 @@
 # Hacktoberfest2k21
-## _Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt_
+## _[Hacktoberfest](https://hacktoberfest.digitalocean.com/) promotes engagement in the open source community, which is growing year after year. Finish the 2021 challenge to receive a limited edition T-shirt._
 
-This repo is meant for submissions in many areas of open source contribution. 
+This repository is intended for contributions in a variety of fields of open source contributions.
 
 - Fork
 - Add/fix
